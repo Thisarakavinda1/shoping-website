@@ -1,6 +1,6 @@
 .hero{
     height: 100vh;
-    background: linear-gradient(180deg,#fde1ff,#e1ffea22 60%);
+    background: linear-gradient(180deg,#f21027cd,#e9efeb22 60%);
     display: flex;
 }
 
@@ -53,3 +53,12 @@
     font-weight: 500;
 }
 
+.right{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120%;
+
+
+}

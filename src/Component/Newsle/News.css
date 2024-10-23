@@ -1,0 +1,60 @@
+.news{
+    width: 65%;
+    height: 45vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 0px 140px;
+    margin-bottom: 150px;
+    background: linear-gradient(180deg,#f4f1f1 0%,#f00606c2 0%,#faf8f822 60%);
+    gap: 30px;
+
+
+}
+.news h1{
+    color: rgb(11, 11, 11);
+    font-size:45px;
+    font-weight: 600;
+
+
+
+}
+.news p{
+    color: #454545;
+    font-size: 20px;
+}
+
+.news div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(253, 253, 253);
+    width: 730px;
+    height: 135px;
+    border-radius: 80px;
+    border: 1px solid #a89b9b;
+
+
+}
+
+.news input{
+width: 500px;
+margin-left: 30px;
+border: none;
+outline: none;
+color: #02ff02;
+font-size: Poppins;
+font-size: 16px;
+}
+
+.news div button{
+    width: 210px;
+    height: 70px;
+    border-radius: 80px;
+    background: black;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}

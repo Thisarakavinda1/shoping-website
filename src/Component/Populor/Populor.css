@@ -1,0 +1,30 @@
+.populor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    height: 90vh;
+
+}
+.populor h1{
+    color: #171717;
+    font-size: 45px;
+    font-weight: 600;
+
+}
+
+.populor hr{
+    height: 6px;
+    width: 200px;
+    border-radius:10px;
+    background: #252525;
+
+
+
+}
+
+.populor-item{
+    margin-top: 50px;
+    display: flex;
+    gap:30px;
+}

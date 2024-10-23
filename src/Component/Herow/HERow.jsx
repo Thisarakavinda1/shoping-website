@@ -7,7 +7,7 @@ function HERow() {
   return (
     <div className='hero'>
         <div className='left'>
-            <hs>NEW ARRIVALA ONLY</hs>
+            <h1>NEW ARRIVALA ONLY</h1>
             <div>
                 <div className='hand-icon'>
                     <p>New</p>

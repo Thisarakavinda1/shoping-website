@@ -1,6 +1,6 @@
-# Simple Shopping Site
+# Shopping Site (PickNBuy)
 
-This is a simple shopping site built using React for the front-end. The application allows users to browse products, add items to their cart, and view their cart contents.
+This is a  shopping site built using React for the front-end. The application allows users to browse products, add items to their cart, and view their cart contents.
 
 ## Features
 
